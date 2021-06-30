@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmtjenkin/NodeApp.git"
+  },
+  "author": "nt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmtjenkin/NodeApp/issues"
+  },
+  "homepage": "https://github.com/nmtjenkin/NodeApp#readme"
+}
