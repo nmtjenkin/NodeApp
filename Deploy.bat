@@ -1,6 +1,5 @@
-copy packagearchive.tar C:\Users\NT\TestApp
-tar -xf packagearchive.tar  -C C:\Users\NT\TestApp
-cd C:\Users\NT\TestApp
+tar -xf packagearchive.tar  -C C:\Users\NT\Desktop\NodeAPP
+cd C:\Users\NT\Desktop\NodeAPP
 C:
 taskkill /f /im node.exe
 pm2 start Main.js
