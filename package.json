@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nmtjenkin/NodeApp/issues"
   },
-  "homepage": "https://github.com/nmtjenkin/NodeApp#readme"
+  "homepage": "https://github.com/nmtjenkin/NodeApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
 }
